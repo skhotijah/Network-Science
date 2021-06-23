@@ -20,4 +20,4 @@ modularity(ceb) # how modular the graph partitioning is
 
 ### Sample output 
 
-![image](https://user-images.githubusercontent.com/53899191/123135146-a937bb80-d47b-11eb-99ae-0deb5ea242bd.png)
+![image](https://user-images.githubusercontent.com/53899191/123135296-d4220f80-d47b-11eb-8502-e43bd48811d7.png)
