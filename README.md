@@ -18,3 +18,6 @@ crossing(ceb, net) # boolean vector: TRUE for edges across communities
 modularity(ceb) # how modular the graph partitioning is
 ```
 
+### Sample output 
+
+![image](https://user-images.githubusercontent.com/53899191/123135146-a937bb80-d47b-11eb-99ae-0deb5ea242bd.png)
